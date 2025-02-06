@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sweet389/sweet389/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
   <img width="12" />
@@ -43,14 +37,6 @@
   </a>
   <a href="https://tryhackme.com/hacktivities" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sweet.noob">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sweet.noob&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
