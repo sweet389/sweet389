@@ -24,7 +24,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/sweetz.389/" target="_blank">
+  <a href="https://www.instagram.com/pedro.morello/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="sweetzvlr" target="_blank">
